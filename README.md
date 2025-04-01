@@ -44,6 +44,9 @@ youtube.com
 tiktok.com
 reddit.com
 ```
+![tiktok](https://github.com/user-attachments/assets/34d23434-fa95-49de-ab46-fbfde76292e8)
+![x](https://github.com/user-attachments/assets/a312cc9c-2af1-4087-8404-56c3db4a4723)
+![youtube](https://github.com/user-attachments/assets/30b2c52f-605b-476d-8734-39285aa8f131)
 
 Теперь при попытке зайти на один из них появится сообщение.
 
