@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>CodeKick Настройки</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 10px;
+      width: 250px;
+    }
+    label {
+      display: block;
+      margin-bottom: 6px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Выбор сайтов</h1>
+  <div id="site-list"></div>
+  
+  <hr>
+  <input type="text" id="custom-site" placeholder="Добавить сайт (example.com)" style="width: 100%; margin-top: 10px;">
+  <button id="add-site" style="margin-top: 5px;">Добавить</button>
+  <hr> 
+  <button id="disable-extension" style="margin-top: 10px;">Выключить CodeKick</button>
+  <hr>  
+
+  <script src="popup.js"></script>
+</body>
+</html>
