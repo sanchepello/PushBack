@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "CodeKick",
+  "name": "PushBack",
   "version": "1.0",
-  "description": "Блокирует выбранные сайты, чтобы не проёбывать жизнь",
+  "description": "Блокирует выбранные сайты, чтобы не лениться",
   "permissions": ["scripting", "storage", "tabs", "management"],
   "background": {
     "service_worker": "background.js"
